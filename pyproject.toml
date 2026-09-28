@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deeptech-briefing"
+version = "0.1.0"
+description = "Deterministic briefings composed from synthetic deep technology fixtures"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+deeptech = "deeptech.cli:main"
+
+[tool.setuptools]
+packages = ["deeptech"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

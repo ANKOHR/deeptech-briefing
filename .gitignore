@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+db-prompt.txt
+db-launch.py
+db-codex.log
+dt-prompt.txt
+dt-launch.py
+dt-codex.log
+*.log
+.coverage
+htmlcov/
