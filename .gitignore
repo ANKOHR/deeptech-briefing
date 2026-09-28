@@ -13,5 +13,6 @@ dt-prompt.txt
 dt-launch.py
 dt-codex.log
 *.log
+db-audit.jsonl
 .coverage
 htmlcov/
