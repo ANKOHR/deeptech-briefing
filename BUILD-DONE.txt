@@ -1,0 +1,4 @@
+Pytest test count: 22 passed
+Local commit hash: 82a2d8b9ebeb0f6a11eb3ab9cc0a5baaf425edca
+
+Summary: Implemented DeepTech Briefing as a deterministic, CPU-only Python CLI that generates synthetic topic packs, assembles source-linked briefings, calculates and shows worked economics, draws captioned PNG illustrations, and renders Markdown or HTML with provenance and honesty boundaries. Added a complete pytest suite and README, and committed the build on branch main.
